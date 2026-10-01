@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/sakilahammed-dev">Sakil Ahammed</a> 👋</h1>
-  <h3>🚀 AI & Full-Stack Software Engineer | Automation Specialist</h3>
-  <p><em>Transforming complex ideas into intelligent, autonomous, and scalable digital systems.</em></p>
+  <h3>💻 Software Developer | 🤖 AI & Automation Specialist | 🌐 Web Engineer</h3>
+  <p><em>Transforming complex ideas into intelligent, autonomous, and scalable software solutions.</em></p>
 
   <p>
     <a href="mailto:sakilahammed114@gmail.com"><img src="https://img.shields.io/badge/Email-sakilahammed114%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-blue?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Software%20Development%20%7C%20AI%20%7C%20Web-blue?style=flat-square" alt="Focus" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Global%20Opportunities-success?style=flat-square" alt="Status" />
   </p>
 </div>
@@ -14,16 +14,17 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 **AI & Automation Specialist:** Architecting intelligent LLM workflows, autonomous AI agents, and end-to-end automation pipelines.
-- 🌐 **Full-Stack Software Engineer:** Building high-performance, modern, and scalable web applications from scratch.
-- 💡 **First-Principles Problem Solver:** Obsessed with clean code, robust architecture, and delivering high-impact business value.
-- 🌍 **Global Mindset:** Open to international remote contracts, strategic freelance projects, and visionary tech collaborations.
+- 💻 **Software Developer:** Crafting robust, maintainable, and high-performance software systems with clean architecture.
+- 🤖 **AI & Automation Specialist:** Building autonomous AI agents, LLM integrations, and complex business workflow automations.
+- 🌐 **Modern Web Developer:** Designing scalable, responsive, and ultra-fast web applications from front-to-back.
+- 💡 **First-Principles Mindset:** Focused on problem-solving, clean code standards, and delivering maximum business impact.
+- 🌍 **Global Collaboration:** Open to international contracts, freelance software development, and innovative tech ventures.
 
 ---
 
 ### 🛠️ Tech Stack & Core Competencies
 
-#### 🤖 AI, Automation & Backend Architecture
+#### 💻 Software Development & Core Engineering
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -63,7 +64,7 @@
 
 - 📧 **Direct Inquiries:** [sakilahammed114@gmail.com](mailto:sakilahammed114@gmail.com)
 - 💼 **GitHub:** [@sakilahammed-dev](https://github.com/sakilahammed-dev)
-- 🚀 *Let's collaborate on AI integrations, automation systems, or modern web engineering!*
+- 🚀 *Let's collaborate on software engineering, AI integrations, or modern web systems!*
 
 <br>
 <div align="center">
