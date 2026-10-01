@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm <a href="https://github.com/sakilahammed-dev">Sakil Ahammed</a> 👋</h1>
+  <h3>🚀 AI & Full-Stack Software Engineer | Automation Specialist</h3>
+  <p><em>Transforming complex ideas into intelligent, autonomous, and scalable digital systems.</em></p>
 
-<!--
-**sakilahammed-dev/sakilahammed-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <a href="mailto:sakilahammed114@gmail.com"><img src="https://img.shields.io/badge/Email-sakilahammed114%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-blue?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Global%20Opportunities-success?style=flat-square" alt="Status" />
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🤖 **AI & Automation Specialist:** Architecting intelligent LLM workflows, autonomous AI agents, and end-to-end automation pipelines.
+- 🌐 **Full-Stack Software Engineer:** Building high-performance, modern, and scalable web applications from scratch.
+- 💡 **First-Principles Problem Solver:** Obsessed with clean code, robust architecture, and delivering high-impact business value.
+- 🌍 **Global Mindset:** Open to international remote contracts, strategic freelance projects, and visionary tech collaborations.
+
+---
+
+### 🛠️ Tech Stack & Core Competencies
+
+#### 🤖 AI, Automation & Backend Architecture
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+#### 🌐 Modern Web Development
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+---
+
+### 📊 GitHub Live Performance & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakilahammed-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sakil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilahammed-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakilahammed-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Let's Connect & Build Something Extraordinary!
+
+- 📧 **Direct Inquiries:** [sakilahammed114@gmail.com](mailto:sakilahammed114@gmail.com)
+- 💼 **GitHub:** [@sakilahammed-dev](https://github.com/sakilahammed-dev)
+- 🚀 *Let's collaborate on AI integrations, automation systems, or modern web engineering!*
+
+<br>
+<div align="center">
+  <sub>Built with passion, precision, and purpose by <b>Sakil Ahammed</b>.</sub>
+</div>
