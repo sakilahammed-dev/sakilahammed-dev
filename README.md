@@ -51,10 +51,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakilahammed-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sakil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilahammed-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakilahammed-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
