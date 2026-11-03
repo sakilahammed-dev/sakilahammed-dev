@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-banner.jpg" alt="Sakil Ahammed Header Banner" width="100%" />
+  <img src="./assets/Full-Stack%20AI%20Architect%20Banner.png" alt="Sakil Ahammed Header Banner" width="100%" />
 </p>
 
 <div align="center">
